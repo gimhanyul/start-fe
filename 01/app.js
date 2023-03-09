@@ -1,1 +1,1 @@
-console.info("01");
+console.log("01");
